@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently practicing React <br><br>🌱 I’m currently Learning System Design<br><br>👨‍💻 All of my projects are available at https://github.com/pragneshborad<br><br>📫 How to reach me boradpragnesh@gmail.com<br><br>📫 Currently I'm looking for a internship which I want to convert into a job.<br><br>📄 See my Resume 
+🔭 I’m currently practicing React <br><br>🌱 I’m currently Learning System Design<br><br>👨‍💻 All of my projects are available at https://github.com/pragneshborad<br><br>📫 How to reach me boradpragnesh@gmail.com<br><br>📫 Currently I'm looking for a internship which I want to convert into a job.<br><br>📄 See my Resume https://drive.google.com/drive/u/0/home
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pragnesh-borad/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23160940/pragnesh-borad) 
